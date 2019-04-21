@@ -1,0 +1,1 @@
+This is sejourmedia's first git project!
